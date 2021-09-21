@@ -3,6 +3,6 @@ Projetos de Internet das Coisas para a Educação Profissional Técnica - (Ensin
 
 Informações sobre o projeto
 
-- Projeto 1
-- Projeto 2
-- Projeto 3
+- Agropecuária
+- Informática
+- Química
