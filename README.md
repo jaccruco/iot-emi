@@ -1,8 +1,6 @@
-# IoT-EPT
-Projetos de Internet das Coisas para a Educação Profissional Técnica - (Ensino Médio Integrado)
+# IoT-EMI
+Práticas Pedagógicas com Internet das Coisas no Ensino Médio Integrado
 
-Informações sobre o projeto
+- Projeto físico do Dispositivo IoT de Referência
 
-- Agropecuária
-- Informática
-- Química
+![dispositivo6_bb](https://user-images.githubusercontent.com/48396770/168443315-7186047d-89a3-4107-b293-85e77691be46.png)
